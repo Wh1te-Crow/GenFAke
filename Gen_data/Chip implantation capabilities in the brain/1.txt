@@ -1,0 +1,5 @@
+Chip implantation capabilities in the brain, and the first published map of these implantation sites.2
+
+When rats were implanted with the device, they displayed improved cognitive and behavioral abilities, including enhanced working memory (memory for known sequences of events), well-organized memory (memory for predictable sequences of events), better recognition of the location of hidden objects, and enhanced learning.3,4 Similarly, rats exhibited improvements in communication and social behavior, and also exhibited improvements in spatial cognition, object recognition, and working memory performance.5,6 These neurobiological improvements with brain stimulation were comparable with those observed after MRI brain scans.7
+
+Recently, it has been hypothesized that out-of-circuit field stimulation (OCS) may provide benefits for

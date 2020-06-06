@@ -1,0 +1,7 @@
+Chip implantation capabilities in the brain are a huge advance compared to the 90s when it was announced that monkeys could control robotic limbs and organs with their minds.
+
+The brain implant is an external device and is meant to be secured in a way that it cannot be removed or broken. For the first time, scientists in Spain have managed to implant a set of electrodes that can record data from the activity of neurons in a rat's brain.
+
+In this experiment, the rat's brain was imaged with an optogenetic technique that enables researchers to turn neurons on and off using light. This enabled the scientists to discover the amount of information a particular neuron was processing.
+
+Using the optogenetic technique, the researchers attached a set of electrodes

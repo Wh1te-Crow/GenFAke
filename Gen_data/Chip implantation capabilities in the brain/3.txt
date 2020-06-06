@@ -1,0 +1,5 @@
+Chip implantation capabilities in the brain are becoming increasingly well-developed, and so much so that new implants can perform their functions even if they are not directly implanted in the brain. For example, radio-frequency imaging (MRI) provides structural information about the brain in which patients can read out the images.
+
+The Japanese are only one step away from using neural networks to supplement and augment their traditional doctors. We've already discussed brain-computer interfaces, but the researchers in the latest issue of Nature Nanotechnology propose the use of neural networks as an early step in targeting those particular problems.
+
+Traditional imaging, for example, will always be slower than directly implanting a chip into the brain. The targets in MRI imaging (hippocampus, amygdala

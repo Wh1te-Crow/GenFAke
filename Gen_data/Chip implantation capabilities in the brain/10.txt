@@ -1,0 +1,9 @@
+Chip implantation capabilities in the brain, has been updated to be portable and don't need external power. It has also been made portable to other carriers by powering on via a button on the side.
+
+. . .
+
+As you can see by the video above, taking an interactive exercise with patients as part of their daily routine is helping to find new ways to get them going with physical therapy sessions.
+
+The device itself will be able to vary the exercise itself depending on what the patient needs. It can have both motor and sensory guidance to allow the patient to complete the exercise on their own as well as with supervision.
+
+Images courtesy

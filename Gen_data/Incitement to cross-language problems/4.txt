@@ -1,0 +1,7 @@
+Incitement to cross-language problems
+
+Any code with undefined behavior, including undefined types and undefined elements, will not be considered correct. Even if we assume that our programmer intends his code to be correct, that assumption is not valid.
+
+A programmer, who uses undefined elements and undefined types in his programs, is effectively saying, "I can't think of a better way to achieve this type of result, so I'll stick with undefined elements and undefined types." That is not encouraging, and our use of undefined elements and undefined types creates opportunities for programmers to cross-language problems.
+
+By viewing it that way, we should stop what we are doing and assess whether we can continue to make use of undefined elements and undefined types. We should
